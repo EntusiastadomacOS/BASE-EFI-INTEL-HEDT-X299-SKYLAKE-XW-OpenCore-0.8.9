@@ -9,7 +9,7 @@ Initial macOS Support|macOS 10.13, High Sierra.
 
 # Basic Steps
 
-1. [Download](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-X299-SKYLAKE-XW/releases) the latest release;
+1. [Download](https://github.com/EntusiastadomacOS/BASE-EFI-INTEL-HEDT-X299-SKYLAKE-XW-OpenCore-0.8.9/releases) the latest release;
 2. Includes **additional** kexts (for ethernet, audio, etc);
 3. Include the **necessary** ACPI patches (.aml);
 4. Review the special notes;
